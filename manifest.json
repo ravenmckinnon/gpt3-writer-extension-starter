@@ -1,6 +1,6 @@
 {
   "name": "generate a great news headline",
-  "description": "generate 10 news headlines ranked by seo performance",
+  "description": "create 10 news headlines ranked by seo performance",
   "version": "1.0",
   "manifest_version": 3,
   "icons": {
