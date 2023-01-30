@@ -74,7 +74,7 @@ const generateCompletionAction = async (info) => {
 chrome.runtime.onInstalled.addListener(() => {
   chrome.contextMenus.create({
     id: "context-run",
-    title: "Generate blog post",
+    title: "generate a great headline",
     contexts: ["selection"],
   });
 });

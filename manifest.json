@@ -11,7 +11,7 @@
   },
   "action": {
     "default_popup": "index.html",
-    "default_title": "generate a great headline"
+    "default_title": "generate news headlines"
   },
   "background": {
     "service_worker": "scripts/contextMenuServiceWorker.js"
